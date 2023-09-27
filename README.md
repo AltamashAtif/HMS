@@ -1,5 +1,6 @@
 # HMS
-Hotel Management Software
+HMS Management
+
 
 This web application is developed with Ruby On Rails 5.0.3 , MySQL , Jquery ,Boostrap
 
